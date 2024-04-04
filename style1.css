@@ -1,0 +1,21 @@
+body{
+    background-color: #FCE4EC;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    color: #F06292;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    border-style: double;
+}
+p{
+    color: #F06292;
+    margin: 10px;
+}
+li{
+    color: #F06292;
+
+}
